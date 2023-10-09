@@ -1,0 +1,836 @@
+ip addr
+ping gti.net
+w
+ps aux
+htop
+cd /boot
+ls
+sudo vim octopi.txt 
+sudo apt-get install vim
+sudo vim octopi.txt 
+ls
+sudo reboot
+cd /boot
+ls
+less octopi.txt 
+sudo dpkg-reconfigure tzdata
+date
+sudo dpkg-reconfigure locales
+lsb_release -d
+w
+ps aux
+dmesg
+ls
+cd /
+ls
+cd /boot
+ls
+cd /etc
+ls
+cd
+ls
+cd OctoPrint/
+ls
+cd
+ls
+cd mjpg-streamer/
+ls
+cd 
+ls
+w
+ps aux
+exit
+ls
+git clone https://github.com/KevinOConnor/klipper
+ls
+cd klipper/
+ls
+cd ..
+./klipper/scripts/install-octopi.sh
+cd klipp
+ls
+cd klipper/
+ls
+make menuconfig
+make
+ls
+dmesgh
+dmesg
+cd
+ls
+cd /mnt
+ls
+mkdir sd
+sudo mkdir sd
+sudo fdisk /dev/sda
+sudo mount /dev/sda1 /mnt/sd
+cd sd
+ls
+ls -l
+cp ~/klipper/out/klipper.bin firmware.bin
+sudo cp ~/klipper/out/klipper.bin firmware.bin
+ls
+ls -l
+cd ..
+sudo umount sd
+dmesg
+ls /dev/serial/by-id/
+ls /dev/serial/by-id/*
+cd
+ls
+cd klipp
+ls
+cd klipper/
+ls
+cd klippy/
+ls
+cd ..
+ls
+cd /var/log
+ls
+cd
+ls
+find | grep klippy.log
+cd /
+find | grep klippy.log
+sudo find | grep klippy.log
+less /tmp/klippy.log 
+cd /home/pi
+ls
+ls -la
+less /tmp/klippy.log 
+ls
+vim printer.cfg
+ls
+vim printer.cfg 
+less printer.cfg 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/kl;
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+vim printer.cfg 
+less /tmp/klippy.log 
+ls
+vim printer.cfg 
+ls
+vim printer.cfg 
+less /tmp/klippy.log 
+ls /tmp
+ls -l /tmp/printer 
+less /tmp/klippy.log 
+service
+service --status-all
+service restart klipper
+service klipper restart
+sudo service klipper restart
+less /tmp/klippy.log
+sudo service klipper restart
+less /tmp/klippy.log
+vim printer.cfg 
+ls
+cat printer.cfg 
+git clone https://github.com/th33xitus/kiauh.git
+sudo apt-get update
+sudo apt-get upgrade
+sudo reboot
+ls -la
+cd .octoprint/
+ls
+less u
+less users.yaml 
+cd
+source ~/oprint/bin/activate
+octoprint user password mike240se
+exit
+octoprint user password mike240se
+source ~/oprint/bin/activate
+octoprint user password mike240se
+ls
+cd .octoprint/
+ls
+less config.
+less config.yaml 
+ls
+less users.yaml 
+octoprint user password mike240se
+exit
+ls
+less klipper_config/printer
+less klipper_config/printer.cfg 
+ls
+cd klipper_config/
+ls
+less kiauh_macros.cfg 
+less printer.cfg 
+less kiauh_macros.cfg 
+less printer.cfg 
+,ls
+ls
+less printer-20210614_12
+less printer-20210614_125327.cfg 
+less printer.cfg 
+ls
+cd k
+ls
+cd kiauh/
+ls
+./kiauh.sh 
+service --status-all
+ps aux
+ps aux | grep kli
+ls
+./kiauh.sh 
+ls
+cd ..
+ls
+mkdir backups
+cp printer.cfg backups/
+ls
+kiauh/kiauh.sh 
+ls
+cd klipper_config/
+ls
+ls -l
+less printer.cfg 
+rm printer.cfg 
+cp ../printer.cfg .
+ls
+less printer.cfg 
+ls
+less kiauh_macros.cfg 
+ls
+less moonraker.conf 
+less /tmp/klippy.log 
+ls
+cd ..
+ls
+cd kiauh-backups/
+ls
+cd klipper_config/
+ls
+cd 210613-1613/
+ls
+cd klipper_config/
+ls
+less printer.cfg 
+less /tmp/klippy.log 
+ps aaux
+ps aux
+cd /etc/nginx/
+ls
+cd conf.d/
+ls
+cd ..
+ls
+cd sites-enabled/
+ls
+less mainsail 
+ls
+cd ..
+s
+cd sites-available/
+ls
+less default 
+ls
+cd ..
+ls
+psa ux
+ps aux
+cd /etc/haproxy/
+ls
+ps aux
+ps aux | grep hapr
+ls /home
+sudo service octoprint restart
+ps aux
+ls
+./kiauh/kiauh.sh 
+ls
+mv printer.cfg printer.cfg-old
+ls
+cd klipper_config/
+ls
+vim printer.cfg 
+ls
+cd ..
+ls
+cd gcode_files/
+ls
+cd ..
+ls
+vim klipper_config/
+vim klipper_config/kiauh_macros.cfg 
+vim klipper_config/printer.cfg 
+ls
+cd klipper_config/
+ls
+vim kiauh_macros.cfg 
+vim printer.cfg 
+ls kiauh_macros.cfg
+ls
+less printer.cfg 
+vim printer
+vim printer.cfg 
+less printer.cfg 
+fg
+less printer.cfg 
+s
+ls
+vim printer.cfg 
+less printer
+less printer.cfg 
+vim printer.cfg 
+ls
+cd klipper_config/
+ls
+less printer.cfg 
+vim printer.cfg 
+less printer.cfg 
+vim printer.cfg 
+less printer.cfg 
+ls
+cd klipper_config/
+ls
+vim printer.cfg 
+less printer.cfg 
+lsusb
+lsusb -v
+dmesgh
+dmesg
+lsusb
+cd /etc/udev/rules.d/
+ls
+vim 98-klipper.rules
+sudo \vim 98-klipper.rules
+sudo vim 98-klipper.rules
+ls
+cd .ss
+ls
+ls -la
+mkdir .ssh
+cd .ssh
+ls
+vim authorized_keys
+ls
+ls -l
+exit
+ls
+cd /etc/udev/rules.d/
+ls
+dmesg
+lsusb
+vim 98-klipper.rules
+sudo vim 98-klipper.rules
+/bin/sh -c '/bin/echo RESTART > /tmp/printer'"
+ls -l /tmp/printer 
+/bin/sh -c '/bin/echo RESTART > /tmp/printer'"
+/bin/sh -c '/bin/echo RESTART > /tmp/printer'
+less 98-klipper.rules 
+dmesg
+cd
+ls
+cd klipper_config/
+ls
+vim moonraker.conf 
+vim printer.cfg 
+vim moonraker.conf 
+ps aux
+systemctl
+systemctl stop octoprint
+systemctl status
+systemctl status octoprint
+w
+ps aux
+systemctl disable octoprint
+sudop systemctl disable octoprint
+sudo systemctl disable octoprint
+ls
+git init
+ls
+less printer.cfg 
+ls
+ssh-keygen -t rsa
+cat ~/.ssh/id_rsa.pub 
+ls
+git add .
+ls
+git commit
+git config user.email "mike@octopi"
+git config user.name "mike"
+ls
+git commit
+git remote add origin https://github.com/mike240se/klipper_config.git
+git push -u origin 
+git push
+git push origin master
+git remote
+git remote help
+git remote remove origin
+git remote add origin git@github.com:mike240se/klipper_config.git
+git push origin master
+ls
+cd ..
+ls
+cd fluidd/
+ls
+cd ..
+ls
+cd scripts/
+ls
+cd ..
+ls
+cd klipper_config/
+ls
+less moonraker.conf 
+less printer.cfg 
+less kiauh_macros.cfg 
+less printer.cfg 
+vim printer.cfg 
+git add printer.cfg 
+git add moonraker.conf 
+git commit
+git push origin master
+vim printer.cfg 
+less moonraker.conf 
+vim printer.cfg 
+less moonraker.conf 
+vim printer.cfg 
+ls
+ps aux
+systemctl status moonraker
+systemctl restart moonraker
+sudo systemctl restart moonraker
+ls
+vim printer.cfg 
+less moonraker.conf 
+vim printer.cfg 
+less moonraker.conf 
+vim moonraker.conf 
+sudo systemctl restart moonraker
+dmesg
+less /etc/udev/rules.d/98-klipper.rules 
+ls /tmp/
+ls /tmp/printer
+ls /tmp/printer -l
+vim moonraker.conf 
+ls
+vim printer
+vim printer.cfg 
+cd /etc/udev/rules.d/
+ls
+vim 98-klipper.rules 
+lsusb
+vim 98-klipper.rules 
+ls -l /tmp
+ls -l /
+ps aux
+ls -l /tmp/printer 
+vim 98-klipper.rules 
+sudo vim 98-klipper.rules 
+lsusb
+cd
+ls
+cd klipper_config/
+ls
+less printer.cfg 
+vim printer.cfg 
+ls
+git add .
+git commit
+git push origin master
+cd
+ls
+cd klipp
+ls
+cd klipper.
+ls
+cd klipper.bi
+ls
+cd klipper
+ls
+cd klippy/
+ls
+cd ..
+ls
+cd ..
+ls
+cd klipp
+ls
+cd klipper
+ls
+cd src/
+ls
+cd ..
+ls
+cd ..
+ls
+w
+htop
+less /proc/cpui
+less /proc/cpuinfo 
+ls
+vim klipper_config/printer.cfg 
+ls
+cd klipp
+ls
+cd klipper
+ls
+cd ..
+ls
+cd klippy-env/
+ls
+cd ..
+ls
+cd klipper_config/
+ls
+cd /tmp
+ls
+ls -l
+less klippy
+less klippy.log
+dmesg
+sudo reboot
+lsusb
+dmesg
+lsusb
+dmesg
+lsusb
+dmesgf
+dmesg
+ls
+dmesg
+lsusb
+dmesg
+ls
+cd klipper_config/
+ls
+git add .
+git commit
+git push origin master
+git status
+git push origin master
+cd klipper_config/
+ls
+vim printer.cfg 
+speedtest
+sudo apt-get install speedtest-cli
+sudo apt-get update
+ls
+vim printer.cfg 
+git add .
+git diff
+git log
+git status
+git commit
+git push origin master
+ls
+cd ..
+ls
+cd klipp
+ls
+cd klipper_config/
+ls
+cd ..
+ls
+cd backups/
+ls
+cd ..
+ls
+cd OctoPrint/
+ls
+w
+htop
+ls
+cd klipp
+ls
+cd klipp
+ls
+cd backups/\
+ls
+cd backups/
+Ls
+ls
+crontab -e
+ls
+cd
+ls
+cd klipp
+ls
+cd klipper
+ls
+cd ..
+ls
+cd klipper_C
+cd klipper_config/
+ls
+git status
+cd ..
+ls
+find | grep stl
+find | grep .stl
+find | grep \.stl
+find | grep '.stl'
+cd /
+find | grep gcode
+cd ..
+ls
+cd 
+ls
+cd go
+cd gcode_files/
+ls
+git status
+cd ..
+ls
+cd gcode_files/
+ls
+cd
+ls
+cd mainsail/
+ls
+cd ..
+ls
+cd OctoPrint/
+ls
+cd ..
+ls
+cd scripts/
+ls
+cd ..
+ls
+cd kiauh
+cd ..
+lc
+cd kiauh_
+ls
+cd kiauh-backups/
+ls
+cd klipper_config/
+ls
+cd
+ls
+ping oldsite.org
+ls
+cd oprint/
+ls
+cd ..
+ls
+cd OctoPrint/
+ls
+cd ..
+ls
+cd gcode_files/
+ls
+cd ..
+ls
+ls -la
+cd .octoprint/
+ls
+du
+cd uploads/
+ls
+ls -l
+cp Powerful_Fyyran_0.2mm_PLA_1h44m.gcode ~/
+cd
+ls
+cd gcode_files/
+ls
+mv ../Powerful_Fyyran_0.2mm_PLA_1h44m.gcode .
+ls
+ps aux
+less ~/.bash_history 
+crontab -e
+sudo su -
+ls /home
+ls
+sudo su -
+ls
+cd kiauh
+ls
+less kiauh.sh 
+ls
+cd ..
+ls
+cd kiauh-backups/
+ls
+ls -l
+du
+cd fl
+ls
+cd klipper_config/
+ls
+ls -l
+cd ..
+ls
+cd ..
+ls
+cd kiauh
+ls
+less README.md 
+ls
+cd ..
+ls
+cd klipper_config/
+ls
+ls -l
+cd ..
+ls
+cd klipper_config/
+ls
+git status
+git remote
+git remote -v
+cd ..
+ls
+cd backups/
+ls
+ls -l
+cd ..
+ls
+cd fluidd/
+ls
+cd ..
+ls
+cd gcode_files/
+ls
+ls -l
+ls -la
+git status
+cd ..
+ls
+w
+ps aux
+free
+df
+ls
+cd kiauh
+ls
+cd ..
+ls
+cd kiauh-backups/
+ls
+cd klipper_config/
+ls
+cd ..
+ls
+cd ..
+ls
+ls -l
+crontab -e
+ls
+ls -l
+cd klipp
+ls
+cd klipper
+ls
+cd ..
+ls
+less ~/.bash_history 
+ls
+cd klipper_config/
+ls
+ls -l
+git status
+less moonraker.conf 
+ls
+ls -l
+less printer.cfg 
+ls
+less kiauh_macros.cfg 
+cd ..
+ls
+cd kiauh
+ls
+ls -l
+ls -la
+git status
+git pull
+ls
+less README.md 
+./kiauh.sh 
+ls
+cd ..
+ls
+cd klipper_config/
+ls
+less printer.cfg 
+ls
+ls -l
+less printer-20210623_132334.cfg 
+cd ..
+ls
+cd backups/
+ls
+ls -l
+less printer.cfg 
+cd ..
+ls
+cd kiauh
+ls
+./kiauh.sh 
+git pull
+./kiauh.sh 
+ls
+cd ..
+ls
+cd klipp
+ls
+cd klipp
+cd klipper
+ls
+cd out/
+ls
+ls -l
+cd ..
+sudo service klipper stop
+git pull
+make clean
+make menuconfig
+l
+ls
+lss -la
+ls -la
+less .config 
+make menuconfig
+make clean
+make
+ls -l /dev/tty
+ls -l /dev/tty*
+ls
+./scripts/flash-sdcard.sh -l
+./scripts/flash-sdcard.sh /dev/ttyACM0 btt-skr-v1.4
+sudo service klipper start
+ls
+cd ..
+ls
+cd fluidd/
+ls
+less config.json 
+ls
+cd ..
+ls
+cd klipper_config/
+ls
+less moonraker.conf 
+vim moonraker.conf 
